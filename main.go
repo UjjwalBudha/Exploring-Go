@@ -16,4 +16,7 @@ func main() {
 
     f := "apple"
     fmt.Println(f)
+
+    test := "my name is ujjwal"
+    fmt.Println(test)
 }
